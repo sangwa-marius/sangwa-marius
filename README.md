@@ -10,6 +10,7 @@
 
 </div>
 
+---
 
 
 
@@ -27,7 +28,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=sangwa-marius&theme=algolia&no-bg=true&no-frame=true&row=2&column=6&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=sangwa-marius&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/>
 </div>
 
 ---
@@ -58,18 +59,7 @@
 
 ---
 
-## 💼 Professional Expertise
 
-```text
-Frontend Development    ████████████████████░  90%
-Backend Development     ███████████████████░░  85%
-Database Design         ██████████████████░░░  80%
-API Development         ███████████████████░░  85%
-Problem Solving         ████████████████████░  95%
-Version Control         ████████████████░░░░  80%
-```
-
----
 
 ## 📈 Contribution Activity
 
