@@ -1,49 +1,64 @@
-# Hi there, I'm Marius Sangwa 👋
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Driving+Technical+Excellence;Always+Mastering+New+Technologies)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9B0F,100:00C896&height=180&section=header&text=Marius%20Sangwa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Driving+Technical+Excellence;Always+Mastering+New+Technologies)](https://git.io/typing-svg)
+
+<a href="https://linkedin.com/in/sangwa-marius" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/sangwa-marius" target="_blank"><img src="https://img.shields.io/badge/Twitter-2EA44F?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/sangwa_marius_" target="_blank"><img src="https://img.shields.io/badge/Instagram-2EA44F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
-## GitHub Statistics
+
+
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sangwa-marius&theme=radical&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sangwa-marius&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EA44F&icon_color=00C896&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EA44F&text_color=C9D1D9&langs_count=8" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangwa-marius&layout=compact&theme=radical&hide_border=true&langs_count=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sangwa-marius&hide_border=true&background=0D1117&stroke=2EA44F&ring=00C896&fire=2EA44F&currStreakLabel=2EA44F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
-## About Me
+## 🏆 GitHub Trophies
 
-```json
-{
-  "title": "Software Engineer",
-  "summary": "Passionate engineer with a proven track record of designing and delivering efficient, scalable, and maintainable software solutions.",
-  "specialization": "Solving complex architectural challenges and transforming innovative ideas into production-grade systems using clean, principled code and thoughtful design patterns.",
-  "currently": "Architecting innovative, high-impact software solutions",
-  "learning": "Continuously advancing expertise in emerging technologies and best practices",
-  "passion": "Crafting elegant, efficient, and maintainable code",
-  "openTo": "Strategic collaborations on challenging and meaningful projects",
-  "funFact": "I believe exceptional coffee fuels exceptional engineering"
-}
-```
-🏆 GitHub Trophies
-<h2 align="center">🏆 GitHub Trophies</h2> <p align="center"> <img src="https://github-trophies.vercel.app/?username=sangwa-marius&theme=dark_dimmed&row=5&column=6&no-bg=true&no-frame=true" width="100%"/> </p>
-🛠️ Technology Stack
-Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,php,c" alt="Languages" /> </p>
-Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="Frontend" /> </p>
-Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend" /> </p>
-Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /> </p>
-Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,nginx,apache,npm,github" alt="Tools" /> </p>
-💼 Professional Expertise
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=sangwa-marius&theme=algolia&no-bg=true&no-frame=true&row=2&column=6&margin-w=8&margin-h=8" width="100%"/>
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=html,css,js,php,c" alt="Languages" /></p>
+
+**Frontend Development**
+<p><img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" alt="Frontend" /></p>
+
+**Backend Development**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend" /></p>
+
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /></p>
+
+**Embedded & Hardware**
+<p><img src="https://skillicons.dev/icons?i=arduino,cpp" alt="Embedded" /></p>
+
+**Tools & DevOps**
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,nginx,apache,npm,docker" alt="Tools" /></p>
+
+</div>
+
+---
+
+## 💼 Professional Expertise
 
 ```text
 Frontend Development    ████████████████████░  90%
@@ -54,21 +69,28 @@ Problem Solving         ██████████████████�
 Version Control         ████████████████░░░░  80%
 ```
 
-🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/sangwa-marius" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> </a>
-  <a href="https://instagram.com/sangwa_marius_" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /> </a>
-  <a href="https://x.com/sangwa-marius" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" alt="x" /> </a>
-</p>
-💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=sangwa-marius&style=flat-square&color=00D9FF" alt="Profile Views" />
-📈 Contribution Graph
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangwa-marius&#x26;theme=redical&#x26;bg_color=141321&#x26;color=F8D866&#x26;line=F85D7F&#x26;point=FFFFFF&#x26;area=true&#x26;hide_border=true" alt="Contribution Graph">
+## 📈 Contribution Activity
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangwa-marius&theme=react-dark&bg_color=0D1117&color=2EA44F&line=00C896&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
 
+---
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;color=gradient&#x26;customColorList=0,2,3,4,5&#x26;height=100&#x26;section=footer">
+## 💭 Random Dev Quote
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+
+👀 Profile Views: <img src="https://komarev.com/ghpvc/?username=sangwa-marius&style=flat-square&color=2EA44F" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0F9B0F&height=100&section=footer" width="100%"/>
+
+</div>
