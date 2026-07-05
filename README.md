@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Architecting+Scalable+Systems;Driving+Technical+Excellence;Always+Mastering+New+Technologies)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/sangwa-marius" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/sangwa-marius" target="_blank"><img src="https://img.shields.io/badge/Twitter-2EA44F?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/Marius_1405" target="_blank"><img src="https://img.shields.io/badge/Twitter-2EA44F?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/sangwa_marius_" target="_blank"><img src="https://img.shields.io/badge/Instagram-2EA44F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
