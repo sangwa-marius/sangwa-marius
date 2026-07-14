@@ -12,7 +12,26 @@
 
 ---
 
+```java
+public class WhoAmI {
 
+    public static void intro(String name, String school, String interest, String programmingLanguage) {
+        System.out.println("Hello there! I'm " + name);
+        System.out.println("My current school is " + school);
+        System.out.println("I'm interested in " + interest);
+        System.out.println("My favorite language is " + programmingLanguage);
+    }
+
+    public static void main(String[] args) {
+        String name = "Sangwa Marius";
+        String school = "Rwanda Coding Academy";
+        String interest = "DevOps and AI";
+        String language = "Shell";
+
+        intro(name, school, interest, language);
+    }
+}
+```
 
 ## 📊 GitHub Statistics
 
